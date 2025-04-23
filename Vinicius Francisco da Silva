@@ -1,0 +1,14 @@
+# Portfólio de Vinícius
+
+Este repositório contém meu portfólio profissional, com projetos desenvolvidos em Python e Mobile (React Native), além de informações sobre minha trajetória e formas de contato.
+
+## Acesse a Página
+
+Você pode visualizar a versão web em:  
+[https://francisco382.github.io/meus-projetos](https://francisco382.github.io/meus-projetos)
+
+## Estrutura
+- *index.html*: Página principal do portfólio
+- *style.css*: Estilo visual
+- *projetos/python/*: Projetos em Python
+- *projetos/mobile/*: Projetos Mobile (React Native)
